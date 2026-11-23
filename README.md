@@ -4,3 +4,5 @@ A very simple AddOn that shows server ticks for better viewing of health and man
 ![Resource tick spark on the mana/rage/energy bar](screenshots/tick.png)
 
 If you would like to have more features added, please feel free to open an Issue
+
+Credits to: https://github.com/DustinChecketts/ManaTickTrackerPlus for the AddOns' implementation in Modern Wow.
